@@ -6,10 +6,15 @@ Interests: medical imaging, clinical NLP, interoperability (HL7/FHIR/DICOM), and
 ## Tech Stack 
 
 Languages: Java · C · C# · Python
+>
 Frameworks: Spring (Boot/Data/Security) · .NET (Core)
+>
 AI/ML: PyTorch · TensorFlow · scikit-learn · JAX (basics) · Hugging Face
+>
 Data & MLOps: Pandas · NumPy · MLflow · Weights & Biases · Docker 
+>
 Interoperability & Imaging: HL7 v2 · FHIR · DICOM · Mirth Connect · Orthanc 
+>
 Build/Dev: Gradle · Maven · Git/GitHub · REST
 
 ## Let’s Connect!
